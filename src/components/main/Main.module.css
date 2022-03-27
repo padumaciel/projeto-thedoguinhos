@@ -1,0 +1,12 @@
+.main {
+    max-width: 70vw;
+    margin: auto;
+}
+
+.container {
+	margin-top: 2em;
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap:wrap;
+    border-radius: 2em;
+}
